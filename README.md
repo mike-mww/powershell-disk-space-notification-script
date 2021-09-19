@@ -74,5 +74,5 @@ Set the SMTP server password.
 * ***EnableLogging*** (switch) (Default: null)\
 Switch parameter to enable logging when included in the command line string.
 
-* ***LogFile*** (string) (Default: ".\disk-space-notification.log")\
+* ***LogFile*** (string) (Default: ".\disk-space-notification-script.log")\
 Set the path and filename for the log file when logging is enabled. By default, logs will be generated in a log file adjacent to the script file.
